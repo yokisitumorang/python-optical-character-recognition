@@ -1,4 +1,4 @@
-# Project Name
+# OCR - Extract information from image
 
 This project is responsible to fetch information from image using OCR ( Optical Character Recognition )
 
@@ -43,4 +43,5 @@ This project is responsible to fetch information from image using OCR ( Optical 
     python main.py
     ```
 
+    ![Image Description](https://avatars.githubusercontent.com/u/44546240?v=4)
 
