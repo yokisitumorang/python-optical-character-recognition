@@ -43,6 +43,6 @@ This project is responsible to fetch information from image using OCR ( Optical 
     python main.py
     ```
 
-## Contributing :
+## Contributing
 <a href="https://github.com/yokisitumorang"><img src="https://avatars.githubusercontent.com/u/44546240?v=4" width="60px;"></a>
 
