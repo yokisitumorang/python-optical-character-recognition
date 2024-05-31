@@ -46,4 +46,6 @@ This project is responsible to fetch information from image using OCR ( Optical 
 ## Contributing :
 1. Contributor :
 
-    [<img src="https://avatars.githubusercontent.com/u/44546240?v=4" width="60px;"/><br /><sub><a href="https://github.com/yokisitumorang">Yoki Ferdinand Situmorang</a></sub>]
+    [<a href="https://github.com/yokisitumorang"><img src="https://avatars.githubusercontent.com/u/44546240?v=4" width="60px;"></a>]
+
+    <!-- [<img src="https://avatars.githubusercontent.com/u/44546240?v=4" width="60px;"> <br /><sub><a href="https://github.com/yokisitumorang"></a></sub>] -->
